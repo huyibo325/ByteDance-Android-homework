@@ -1,0 +1,7 @@
+#Fri Dec 04 17:08:28 CST 2020
+base.0=F\:\\Android\\Workspace\\Homework-Chapter-6\\todolist\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=F\:\\Android\\Workspace\\Homework-Chapter-6\\todolist\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
